@@ -6,7 +6,7 @@ author: Alessandro Santospirito
 
 ## PyTorch - Basics
 ## Averaged Perceptron
-<img src="{{ site.baseurl }}/images/1_pytorch-ml/iris-flowers.png" alt="example flowers of dataset" style="width: 45%;"/>
+<img src="{{ site.url }}/images/1_pytorch-ml/iris-flowers.png" alt="example flowers of dataset" style="width: 45%;"/>
 
 So, the data of the **first** 5 examples looks as follows:
 

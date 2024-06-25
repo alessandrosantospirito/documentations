@@ -1,8 +1,9 @@
 FROM ubuntu:22.04
 
 RUN apt-get update && apt-get install -y \
-    ruby-full \
     build-essential \
+    git \
+    ruby-full \
     zlib1g-dev \
     && rm -rf /var/lib/apt/lists/*
 
