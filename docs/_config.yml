@@ -15,8 +15,8 @@ author:
 
 # Gems
 markdown: kramdown
-plugins:
-  - jekyll-paginate
+# plugins:
+#   - jekyll-paginate
 
 include:
   - "public/_streamlit"
