@@ -4,20 +4,6 @@ title: Section 2, PyTorch - Basics, Neural Networks
 author: Alessandro Santospirito
 ---
 
-<!-- <div style="display: flex; align-items: center; justify-content: space-between;">
-  <h2 id="pytorch--basics">PyTorch - Basics</h2>
-  <div class='toggle' id='switch'>
-    <div class='toggle-text-off'>Markdown</div>
-    <div class='glow-comp'></div>
-    <div class='toggle-button'></div>
-    <div class='toggle-text-on'>Streamlit</div>
-  </div>
-</div>
-
-<div id="root">
-    <iframe id="iframeContent" src="http://localhost:4000/public/html/pytorch-basics.html" style="height: 1000px; width: 100%; display: none; border: none;"></iframe>
-</div> -->
-
 <div id="markdownContent" markdown="1">
 
 ### nn.Module
