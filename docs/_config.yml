@@ -2,8 +2,8 @@
 title:               'Machine-Learning and Data-Science'
 tagline:             ''
 description:         ''
-url:                 ''
-baseurl:             'https://alessandrosantospirito.github.io/alessandro-santospirito.github.io/'
+url:                 'https://alessandrosantospirito.github.io/alessandro-santospirito.github.io/'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
