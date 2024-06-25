@@ -95,8 +95,8 @@ for i in range(1000):
     
 ```
 <div style="display: flex; justify-content: space-between;">
-    <img src="{{ site.url }}/images/2_pytorch-basics/loss-logger.png" alt="logging of the loss" style="width: 45%;"/>
-    <img src="{{ site.url }}/images/2_pytorch-basics/predictions-after-training.png" alt="predictions after training" style="width: 45%;"/>
+    <img src="{{ site.baseurl }}/images/2_pytorch-basics/loss-logger.png" alt="logging of the loss" style="width: 45%;"/>
+    <img src="{{ site.baseurl }}/images/2_pytorch-basics/predictions-after-training.png" alt="predictions after training" style="width: 45%;"/>
 </div>
 
 > Jupyter-Notebooks: [Pytorch-Basics](http://localhost:8888/notebooks/pytorch-tutorial/section2_pytorch_basics/notebooks/Tutorial1_Pytorch_Basics.ipynb), [Kmeans Clustering](http://localhost:8888/notebooks/pytorch-tutorial/section2_pytorch_basics/notebooks/Pytorch1_KMeans.ipynb), [Gradient Descent Revisit with PyTorch](http://localhost:8888/notebooks/pytorch-tutorial/section2_pytorch_basics/notebooks/Pytorch2_Linear_Logistic_Regression_For_Classification.ipynb)

@@ -69,6 +69,7 @@ div.MathJax_Display {
 img {
   display: block;
   max-width: 40rem;
+  width: 85%;
   /* margin: 0 0 1rem; */
   margin: 0 auto 1rem;
   border-radius: 5px;
