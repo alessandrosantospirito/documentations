@@ -2,7 +2,8 @@
 title:               'Machine-Learning and Data-Science'
 tagline:             ''
 description:         ''
-url:                 'https://alessandrosantospirito.github.io/alessandro-santospirito.github.io/'
+url:                 ''
+baseurl:             'https://alessandrosantospirito.github.io/alessandro-santospirito.github.io/'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -15,9 +16,8 @@ author:
 
 # Gems
 markdown: kramdown
-# plugins:
-#   - jekyll-paginate
-
+plugins:
+  - jekyll-paginate
 include:
   - "public/_streamlit"
 

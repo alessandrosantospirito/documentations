@@ -15,12 +15,12 @@ author: Alessandro Santospirito
 </div>
 
 <div id="root">
-    <iframe id="iframeContent" src="http://localhost:4000/public/html/pytorch-basics_kmeans.html" style="height: 1000px; width: 100%; display: none; border: none;"></iframe>
+    <iframe id="iframeContent" src="{{ site.baseurl }}/public/html/pytorch-basics_kmeans.html" style="height: 1000px; width: 100%; display: none; border: none;"></iframe>
 </div>
 
 <div id="markdownContent" markdown="1">
 
-![](../../../../images/2_pytorch-basics/K_means.gif)
+![]({{ site.baseurl }}/images/2_pytorch-basics/K_means.gif)
 
 #### Description
 Lets have a look at the steps of K-means clustering
@@ -50,7 +50,7 @@ means  = test_x_tensor[np.random.randint(0, num_img , num_means)]
 ```
 
 ## Gradient Decent
-![](../../../../images/1_pytorch-basics/Linear_Regression.gif)
+![]({{ site.baseurl }}/images/1_pytorch-basics/Linear_Regression.gif)
 
 #### Loading Data
 ```python
