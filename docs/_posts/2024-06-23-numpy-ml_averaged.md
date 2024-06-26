@@ -4,9 +4,50 @@ title: Section 1, PyTorch - ML, Averaged Perceptron
 author: Alessandro Santospirito
 ---
 
-## PyTorch - Basics
-## Averaged Perceptron
-<img src="{{ site.url }}/images/1_pytorch-ml/iris-flowers.png" alt="example flowers of dataset" style="width: 45%;"/>
+<div class="section-header">
+  <h2 id="pytorch--basics">Averaged Perceptron</h2>
+  <a href="https://alessandrosantospirito.github.io/jupyterlite/notebooks/index.html?path=pytorch-tutorial%2Fsection1_numpy_ml%2Fsolutions%2FAveraged_Perceptron_Solutions.ipynb" class="jupyter" aria-label="Open in JupyterLab">
+    <img src="{{ site.url }}/images/jupyter-logo.png" alt="Jupyter Logo">
+  </a>
+</div>
+
+<style>
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#pytorch--basics {
+  margin: 0;
+  margin-right: 15px;
+  font-size: 24px;
+  color: #333;
+}
+
+.jupyter {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border: 1px solid #e0e0e0;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+  background-color: white;
+}
+
+.jupyter:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+}
+
+.jupyter img {
+  margin-top: 1rem;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+</style>
 
 So, the data of the **first** 5 examples looks as follows:
 
