@@ -50,7 +50,7 @@ means  = test_x_tensor[np.random.randint(0, num_img , num_means)]
 ```
 
 ## Gradient Decent
-![]({{ site.url }}/images/1_pytorch-basics/Linear_Regression.gif)
+![]({{ site.url }}/images/2_pytorch-basics/Linear_Regression.gif)
 
 #### Loading Data
 ```python
