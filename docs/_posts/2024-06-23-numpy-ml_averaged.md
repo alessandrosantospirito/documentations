@@ -6,7 +6,7 @@ author: Alessandro Santospirito
 
 <div class="section-header">
   <h2 id="pytorch--basics">Averaged Perceptron</h2>
-  <a href="https://alessandrosantospirito.github.io/jupyterlite/notebooks/index.html?path=pytorch-tutorial%2Fsection1_numpy_ml%2Fsolutions%2FAveraged_Perceptron_Solutions.ipynb" class="jupyter" aria-label="Open in JupyterLab">
+  <a href="https://alessandrosantospirito.github.io/jupyterlite/notebooks/index.html?path=pytorch-tutorial%2Fsection1_numpy_ml%2Fsolutions%2FAveraged_Perceptron_Solutions.ipynb" class="jupyter" aria-label="Open in JupyterLab" target="_blank">
     <img src="{{ site.url }}/images/jupyter-logo.png" alt="Jupyter Logo">
   </a>
 </div>
