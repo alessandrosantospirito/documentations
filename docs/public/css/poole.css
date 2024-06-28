@@ -112,14 +112,13 @@ pre code {
 .highlighter-rouge {
   border: 1px solid #ccc; /* Solid border with 1px width and light gray color */
   border-radius: 5px; /* Rounded corners with a radius of 5px */
+  font-size: 0.8em;
   background-color: #f6f7f8;
-  padding: 2px;
   line-height: 1.4em;
-  margin: 0 auto 0rem;
+  margin: 0.15em auto 0.15em;
   overflow-x: auto; /* Horizontal scroll for code overflow */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Box shadow for depth */
 }
-
 
 /* Original Styling*/
 html,
