@@ -16,5 +16,5 @@ title: Datenbanken
 ## Klausur Themen
 ### [1 - Er-Modellierung]({{ site.url }}/public/html/datenbanken/0_ER-Model.html)
 ### [2 - SQL]({{ site.url }}/public/html/datenbanken/0_SQL.html)
-### [3 - Relationale Algebra]({{ site.url }}/public/html/datenbanken/0_Relationalealgrebra.html)
+### [3 - Relationale Algebra]({{ site.url }}/public/html/datenbanken/0_Relationalealgebra.html)
 ### [4 - Transaktionen]({{ site.url }}/public/html/datenbanken/0_Transaktionen.html)
