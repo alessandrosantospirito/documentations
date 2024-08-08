@@ -4,7 +4,7 @@ title: Datenbanken
 ---
 
 ## Themen
-### [80%: 1 - Er-Modellierung]({{ site.url }}/public/html/datenbanken/1_ER-Modellierung.html)
+### [60%: 1 - Er-Modellierung]({{ site.url }}/public/html/datenbanken/1_ER-Modellierung.html)
 ### [90%: 2 - SQL]({{ site.url }}/public/html/datenbanken/2_SQL.html)
 ### [75%: 3 - Verbundtreue]({{ site.url }}/public/html/datenbanken/3_Verbundtreue.html)
 ### [80%: 3 - Anfragen mit relationaler Algebra]({{ site.url }}/public/html/datenbanken/3_Anfragen_relatioaleAlgebra.html)
