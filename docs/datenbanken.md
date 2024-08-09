@@ -15,6 +15,6 @@ title: Datenbanken
 
 ## Klausur Themen
 ### [40%: 1 - Er-Modellierung]({{ site.url }}/public/html/datenbanken/0_ER-Model.html)
-### [60%: 2 - SQL]({{ site.url }}/public/html/datenbanken/0_SQL.html)
+### [75%: 2 - SQL]({{ site.url }}/public/html/datenbanken/0_SQL.html)
 ### [75%: 3 - Relationale Algebra]({{ site.url }}/public/html/datenbanken/0_Relationalealgebra.html)
 ### [50%: 4 - Transaktionen]({{ site.url }}/public/html/datenbanken/0_Transaktionen.html)
