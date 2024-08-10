@@ -16,5 +16,5 @@ title: Datenbanken
 ## Klausur Themen (SS18 - WS 20)
 ### [40%: 1 - Er-Modellierung]({{ site.url }}/public/html/datenbanken/0_ER-Model.html)
 ### [90%: 2 - SQL]({{ site.url }}/public/html/datenbanken/0_SQL.html)
-### [75%: 3 - Relationale Algebra]({{ site.url }}/public/html/datenbanken/0_Relationalealgebra.html)
+### [15%: 3 - Relationale Algebra]({{ site.url }}/public/html/datenbanken/0_Relationalealgebra.html)
 ### [50%: 4 - Transaktionen]({{ site.url }}/public/html/datenbanken/0_Transaktionen.html)
