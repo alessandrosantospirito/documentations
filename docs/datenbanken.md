@@ -11,7 +11,7 @@ title: Datenbanken
 ### [95%: 4 - Transaktionen]({{ site.url }}/public/html/datenbanken/4_Transaktionen.html)
 
 ## Klausuren
-
+## [95%: SS19]({{ site.url }}/public/html/datenbanken/SS19.html)
 
 ## Klausur Themen (SS18 - WS 20)
 ### [40%: 1 - Er-Modellierung]({{ site.url }}/public/html/datenbanken/0_ER-Model.html)
