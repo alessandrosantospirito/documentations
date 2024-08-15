@@ -11,6 +11,8 @@ title: Datenbanken
 ### [95%: 4 - Transaktionen]({{ site.url }}/public/html/datenbanken/4_Transaktionen.html)
 
 ## Klausuren
+## [25%: SS16]({{ site.url }}/public/html/datenbanken/SS16.html)
+## [30%: WS18]({{ site.url }}/public/html/datenbanken/WS18.html)
 ## [40%: SS18]({{ site.url }}/public/html/datenbanken/SS18.html)
 ## [55%: WS19]({{ site.url }}/public/html/datenbanken/WS19.html)
 ## [95%: SS19]({{ site.url }}/public/html/datenbanken/SS19.html)
