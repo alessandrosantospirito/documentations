@@ -12,6 +12,7 @@ title: Datenbanken
 
 ## Klausuren
 ## [25%: SS16]({{ site.url }}/public/html/datenbanken/SS16.html)
+## [30%: WS17]({{ site.url }}/public/html/datenbanken/WS17.html)
 ## [30%: WS18]({{ site.url }}/public/html/datenbanken/WS18.html)
 ## [40%: SS18]({{ site.url }}/public/html/datenbanken/SS18.html)
 ## [55%: WS19]({{ site.url }}/public/html/datenbanken/WS19.html)
