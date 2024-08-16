@@ -16,7 +16,7 @@ title: Datenbanken
 ## [30%: WS17]({{ site.url }}/public/html/datenbanken/WS17.html)
 ## [30%: WS18]({{ site.url }}/public/html/datenbanken/WS18.html)
 ## [40%: SS18]({{ site.url }}/public/html/datenbanken/SS18.html)
-## [55%: WS19]({{ site.url }}/public/html/datenbanken/WS19.html)
+## [90%: WS19]({{ site.url }}/public/html/datenbanken/WS19.html)
 ## [95%: SS19]({{ site.url }}/public/html/datenbanken/SS19.html)
 ## [90%: WS20]({{ site.url }}/public/html/datenbanken/WS20.html)
 ## [90%: SS20]({{ site.url }}/public/html/datenbanken/SS20.html)
