@@ -20,3 +20,4 @@ title: Datenbanken
 ## [95%: SS19]({{ site.url }}/public/html/datenbanken/SS19.html)
 ## [90%: WS20]({{ site.url }}/public/html/datenbanken/WS20.html)
 ## [90%: SS20]({{ site.url }}/public/html/datenbanken/SS20.html)
+## [30%: SS21]({{ site.url }}/public/html/datenbanken/SS21.html)
