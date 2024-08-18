@@ -22,6 +22,7 @@ title: Datenbanken
 ## [SS20]({{ site.url }}/public/html/datenbanken/SS20.html)
 ## [SS21]({{ site.url }}/public/html/datenbanken/SS21.html)
 
-## Schnelle Uebung (panik vor klausur)
+## Schnelle Uebung, die viel abdecken soll (panik vor klausur)
+## [Klausur Aufgaben]({{ site.url }}/public/html/datenbanken/Klausur_Aufgaben.html)
 ## [Klausur Wiedherolung]({{ site.url }}/public/html/datenbanken/Klausur_Uebung.html) 
 ## [Klausur Themen]({{ site.url }}/public/html/datenbanken/Klausur_Themen.html)
